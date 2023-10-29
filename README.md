@@ -1,7 +1,6 @@
 # EDA_Capstone_Project_AirBnb-Booking-Analysis
 
-Description:
-
+Description-
 This project analyzes Airbnb bookings data to gain insights into the trends and patterns of Airbnb use in New York City in 2019. The findings can be used by Airbnb hosts and guests to make informed decisions about where to list or book Airbnb properties.
 
 For this project we are analyzing Airbnb’s New York City(NYC) data. NYC is not only the most famous city in the world but also top global destination for visitors drawn to its museums, entertainment, restaurants and commerce. According to the Office of New York State Comptroller, NYC hosted 66.6 million visitors in 2019.
