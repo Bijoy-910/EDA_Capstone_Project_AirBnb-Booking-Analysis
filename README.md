@@ -1,6 +1,6 @@
 # EDA_Capstone_Project_AirBnb-Booking-Analysis
 
-##Description-
+## Description-
 
 This project analyzes Airbnb bookings data to gain insights into the trends and patterns of Airbnb use in New York City in 2019. The findings can be used by Airbnb hosts and guests to make informed decisions about where to list or book Airbnb properties.
 
