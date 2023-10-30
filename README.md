@@ -1,69 +1,32 @@
 # EDA_Capstone_Project_AirBnb-Booking-Analysis
 
-## Description-
-
+### Description:
 This project analyzes Airbnb bookings data to gain insights into the trends and patterns of Airbnb use in New York City in 2019. The findings can be used by Airbnb hosts and guests to make informed decisions about where to list or book Airbnb properties.
-
-For this project we are analyzing Airbnb’s New York City(NYC) data. NYC is not only the most famous city in the world but also top global destination for visitors drawn to its museums, entertainment, restaurants and commerce. According to the Office of New York State Comptroller, NYC hosted 66.6 million visitors in 2019.
-
-Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company. Our main objective is to find out the key metrics that influence the listing of properties on the platform. For this, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques. We have found out the distribution of every Airbnb listing based on their location, including their price range, room type, listing name, and other related factors. We have analyzed this dataset from different angles and have come up with interesting insights. This can help in making strategic data-driven decisions by the marketing team, finance team and technical team of Airbnb. *objective The goal of the project - The purpose of the project is to gather information and analyze the detailed information of the different bookings in the neighborhood groups in order to provide insights about the bookings in a particular area as per your preference, type of rooms, and price accordingly. We have tried discovering relationships among different columns and found meaningful insights to decipher business impacts. Data Cleaning:
-
-1.Dropping duplicates.
-
-2.Cleaning individual columns.
-
-3.Remove the Null values from the dataset
-
-Data Analysis and Visualization:
-
-What is the average price according to the location?
-
-Number of active hosts per location (Where most of the hosts focused to own property?)
-
-Which properties are the busiest in terms of Number of Bookings ?
-
-Find the total count of each room type
-
-Room types and their relation with availability in different neighbourhood groups.
-
-Which are the top 25 most used words in listing names?
-
-Find top 10 hosts with most listings.
-
-Find the top three hosts based on their turnover.
-
-Find total no. of nights spend per location.
-
-Total no. of nights spends per room types.
-
-Which host has received the most number of reviews?
-
-Density of property within a neighbourhood group with location.
-
-Correlation of different numerical attributes. Conclusion Through this exploratory data analysis (EDA) and visualization, we gained several interesting insights into the Airbnb rental market. This Airbnb dataset appeared to be a very rich dataset with a variety of columns that allowed us to do deep data exploration on each significant column presented, like we got to know:
-
-Manhattan is the most focused place in New York for hosts to do their business.
-
-Manhattan and Broklyn has the most number of hosts.
-
-Customers pay highest average amount in Manhattan for all the three types of room.
-
-'Entire home/apt' room type has the highest number of listing of 52% and ‘Shared Room’ is the least listed room type at only 2.4% in total.
-
-There is highest avalibility in Staten Island and lowest in Brooklyn in the year.
-
-People stay for longer duration of time in Private rooms in Brooklyn and Manhattan.
-
-Words such as ‘bedroom’, ‘cozy’, ‘private’, ‘apartment’ and ‘spacious’ are used more frequently than words such as ‘park’, ‘near’, ‘village’ and ‘heart’.
-
-Count of listing by top 10 hosts is almost 2.5%(1270 listings) of the whole dataset. Top three host base on their turnover are Sonder(nyc),Blueground, Sally and best host is Sonder(nyc).
-
-More customer preferred Manhattan location for night stay then Brooklyn.
-
-The entire home appartment is highest in average minimum nights and private room is lowest.
-
-The top ten hosts with the most reviews helps in marketing.
-
-The most dense area is Brooklyn with respect to longitude and latitude.
-
-The heatmap can pe used as a corelation function which defines the impact of a attribute on another attribute.
+### Objectives:
+•	Understand the distribution of Airbnb listings based on their location, price range, room type, and other related factors.
+•	Identify popular neighborhoods and types of Airbnb listings.
+•	Analyze the relationship between Airbnb prices and occupancy rates.
+•	Generate insights that can be used to improve the Airbnb experience for both hosts and guests.
+### Methodology:
+The project uses exploratory data analysis (EDA) techniques to explore and visualize the Airbnb bookings data. EDA is a process of inspecting and cleaning data to identify patterns and trends.
+The following Python libraries are used for the EDA:
+•	pandas: for data manipulation and analysis
+•	numpy: for numerical computing
+•	matplotlib: for data visualization
+•	seaborn: for statistical data visualization
+### Results:
+The project findings include:
+•	The most popular neighborhoods for Airbnb listings in New York City are Manhattan, Brooklyn, and Queens.
+•	The most popular types of Airbnb listings are apartments, entire homes, and townhouses.
+•	There is a strong positive correlation between Airbnb prices and occupancy rates.
+•	The entire home apartment is highest in average minimum nights and private room is lowest.
+### Insights:
+The project findings provide valuable insights into the Airbnb market in New York City. Airbnb hosts can use these insights to make informed decisions about where to list their properties and how to price them. Airbnb guests can use these insights to make informed decisions about where to book their accommodations.
+For example, Airbnb hosts in Manhattan may want to consider listing their properties in neighborhoods such as Greenwich Village, SoHo, or Tribeca, which are popular with tourists and business travelers. Airbnb hosts in Brooklyn may want to consider listing their properties in neighborhoods such as Williamsburg, Park Slope, or DUMBO, which are also popular with tourists and offer a more affordable option.
+Airbnb guests who are looking for a centrally located and affordable accommodation may want to consider booking an Airbnb in Manhattan or Brooklyn. Airbnb guests who are looking for a more spacious and private accommodation may want to consider booking an Airbnb in an entire home or townhouse.
+### Impact:
+The project findings can be used to improve the Airbnb experience for both hosts and guests. For example, Airbnb hosts can use the findings to optimize their pricing strategies and attract more guests. Airbnb guests can use the findings to find the best Airbnb accommodations for their needs and budget.
+### Future Work:
+This project could be extended in a number of ways. For example, the analysis could be expanded to include data from other cities or countries. The analysis could also be used to develop predictive models that can help Airbnb hosts and guests make better decisions about Airbnb bookings.
+### Conclusion:
+This project provides a valuable analysis of Airbnb bookings data in New York City. The findings can be used by Airbnb hosts and guests to make informed decisions about where to list or book Airbnb properties. The project could be extended in a number of ways to provide even more insights into the Airbnb market.
